@@ -1,0 +1,8 @@
+com/example/revideo/databinding/ActivityMainBinding.java
+ com.example.revideo.databinding.ActivityMainBinding
+com/example/revideo/databinding/ActivityPlayerBinding.java
+ com.example.revideo.databinding.ActivityPlayerBinding
+com/example/revideo/DataBindingTriggerClass.java
+ com.example.revideo.DataBindingTriggerClass
+com/example/revideo/BuildConfig.java
+ com.example.revideo.BuildConfig
