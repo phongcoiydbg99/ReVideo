@@ -15,4 +15,8 @@ class CusView @JvmOverloads constructor(
     override fun onAnimationEnd() {
         super.onAnimationEnd()
     }
+
+    override fun awakenScrollBars(startDelay: Int): Boolean {
+        return super.awakenScrollBars(startDelay)
+    }
 }
